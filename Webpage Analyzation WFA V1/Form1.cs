@@ -24,7 +24,7 @@ namespace Webpage_Analyzation_WFA_V1
     {
 
         //SerializeObjects newSerializeObjects = new SerializeObjects();
-
+        //
         public webpageAnalyzation()
         {
 
