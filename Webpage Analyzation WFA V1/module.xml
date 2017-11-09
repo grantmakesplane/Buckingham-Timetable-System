@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000007</LecturerID>
+    <ModuleFullName>Introduction to Computer Systems</ModuleFullName>
+    <ModuleShortName>ITCS-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000001</LecturerID>
+    <ModuleFullName>Problem Solving and Programming 1</ModuleFullName>
+    <ModuleShortName>PSP1-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000001</LecturerID>
+    <ModuleFullName>Mathematics for Computing</ModuleFullName>
+    <ModuleShortName>MATC-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000007</LecturerID>
+    <ModuleFullName>Study Skills for Science</ModuleFullName>
+    <ModuleShortName>SSFS-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000004</LecturerID>
+    <ModuleFullName>Introduction to Operating Systems</ModuleFullName>
+    <ModuleShortName>ITOS-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>2</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000002</LecturerID>
+    <ModuleFullName>Problem Sovling and Programming 2</ModuleFullName>
+    <ModuleShortName>PSP2-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>2</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000007</LecturerID>
+    <ModuleFullName>Introduction to Statistics</ModuleFullName>
+    <ModuleShortName>ITSS-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>2</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000001</LecturerID>
+    <ModuleFullName>Principles of Database Systems</ModuleFullName>
+    <ModuleShortName>PRDS-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000002</LecturerID>
+    <ModuleFullName>Object-oriented Programming</ModuleFullName>
+    <ModuleShortName>OOPG-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000008</LecturerID>
+    <ModuleFullName>Human-Computer Interaction</ModuleFullName>
+    <ModuleShortName>HCIN-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000003</LecturerID>
+    <ModuleFullName>Software Engineering</ModuleFullName>
+    <ModuleShortName>SENG-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>4</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000002</LecturerID>
+    <ModuleFullName>Principle of Computer NetWorks</ModuleFullName>
+    <ModuleShortName>PRCN-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>4</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000005</LecturerID>
+    <ModuleFullName>Design, Implementation and Analysis of Algorithms</ModuleFullName>
+    <ModuleShortName>ADIA-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>4</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000008</LecturerID>
+    <ModuleFullName>Mobile Applications Development</ModuleFullName>
+    <ModuleShortName>MAD-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>1</Year>
+    <Term>4</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000003</LecturerID>
+    <ModuleFullName>Software Project Management</ModuleFullName>
+    <ModuleShortName>SWPM-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000003</LecturerID>
+    <ModuleFullName>Image Processing</ModuleFullName>
+    <ModuleShortName>IMGP-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000007</LecturerID>
+    <ModuleFullName>Professional, Ethical and Legal Issues</ModuleFullName>
+    <ModuleShortName>PELI-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>1</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000006</LecturerID>
+    <ModuleFullName>Information Security</ModuleFullName>
+    <ModuleShortName>ISEC-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>2</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000004</LecturerID>
+    <ModuleFullName>Internet and World Wide Web</ModuleFullName>
+    <ModuleShortName>IWWW-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>2</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000007</LecturerID>
+    <ModuleFullName>Multimedia Systems</ModuleFullName>
+    <ModuleShortName>MMSY-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000006</LecturerID>
+    <ModuleFullName>Embedded Systems</ModuleFullName>
+    <ModuleShortName>EMBD-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+  <Module>
+    <ModuleID>0</ModuleID>
+    <LecturerID>1000006</LecturerID>
+    <ModuleFullName>Cloud Computing</ModuleFullName>
+    <ModuleShortName>CLDC-1</ModuleShortName>
+    <PracticalSession>false</PracticalSession>
+    <LectureHours>0</LectureHours>
+    <PracticalHours>0</PracticalHours>
+    <Year>2</Year>
+    <Term>3</Term>
+    <Degree>1</Degree>
+  </Module>
+</ArrayOfModule>

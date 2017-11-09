@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Webpage_Analyzation_WFA_V1.AddStaffForm">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAREjKgCBCIBAFGgKAKpICEICSlSAACyBwGBwCIgQ=</HashCode>
+      <FileName>AddStaffForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.AddSubjects" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAgpAQCkCABYDVBEACAIALyC8RyEBMCgSAgBIgDADA=</HashCode>
+      <FileName>AddSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.AddSubjectsForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKCAAAAEAABCAgAASAAgAAAAAEAAAAAEAAQA=</HashCode>
+      <FileName>AddSubjectsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.BasicStaffInfo" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAgAAAQIAAQEAAAEQAABAEAAAQ=</HashCode>
+      <FileName>BasicStaffInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.ComputingSubjects" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComputingSubjects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.webpageAnalyzation" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>vwUYAAQBCCAAAgUBhACQAAICoAQAAAAggkCCCRAgAHA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Properties.Settings" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.String">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.WebpageAnalyzation" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACRAAAAAAAAgQEAAgIAAAAAAAABBAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WebpageAnalyzation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.GradeTimeTable">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GradeTimeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Lecturer">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQEAIAABAAAAAAAAQAAAAEABAAAAACAAACAAAAgg=</HashCode>
+      <FileName>Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Room">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAgAAAAAIAARAQAgAIAAAgQQAAABAAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Student">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASGQEAIBCBAAgAgAAAQAAQQEABQEAAAGAAgCAAAIgg=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.SystemList" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAKACAAAgAgAAAAAAAAAAAAQAAAAAAAAAgAAAAIQA=</HashCode>
+      <FileName>SystemList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Webpage_Analyzation_WFA_V1.Program" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

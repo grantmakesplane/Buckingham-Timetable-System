@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Room>
+    <RoomSize>63</RoomSize>
+    <RoomName>F06</RoomName>
+  </Room>
+  <Room>
+    <RoomSize>25</RoomSize>
+    <RoomName>F018</RoomName>
+  </Room>
+  <Room>
+    <RoomSize>54</RoomSize>
+    <RoomName>SLT (Sunley)</RoomName>
+  </Room>
+  <Room>
+    <RoomSize>20</RoomSize>
+    <RoomName>CR4</RoomName>
+  </Room>
+  <Room>
+    <RoomSize>15</RoomSize>
+    <RoomName>CR10</RoomName>
+  </Room>
+  <Room>
+    <RoomSize>10</RoomSize>
+    <RoomName>CR3</RoomName>
+  </Room>
+</ArrayOfRoom>
